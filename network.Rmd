@@ -29,7 +29,7 @@ output: github_document
    
    3. 利用Markdown撰写课程设计报告，并用github做版本管理
       - Markdown的撰写可以利用github网站的编辑器，也可以利用RStudio等工具来编辑
-      - 文档中注明文档所在github网站上的地址，所创建的项目应该是公开的，便于访问和检查
+      - 文档中注明文档所在github网站上的地址，所创建的项目应该是公开的，便于访问和检查，例如本文档地址是<https://github.com/LeeWilli/network_design/blob/master/network.md>
       - 文档名称是"项目名称_姓名_学号.md"
 
   
